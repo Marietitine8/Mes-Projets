@@ -1,0 +1,14 @@
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\bin\Debug\GestionCommercialeLiage3.exe.config
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\bin\Debug\GestionCommercialeLiage3.exe
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\bin\Debug\GestionCommercialeLiage3.pdb
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\obj\Debug\GestionCommercialeLiage3.csprojAssemblyReference.cache
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\obj\Debug\GestionCommercialeLiage3.Form1.resources
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\obj\Debug\GestionCommercialeLiage3.Properties.Resources.resources
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\obj\Debug\GestionCommercialeLiage3.csproj.GenerateResource.cache
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\obj\Debug\GestionCommercialeLiage3.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\obj\Debug\GestionCommercialeLiage3.exe
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\obj\Debug\GestionCommercialeLiage3.pdb
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\obj\Debug\GestionCommercialeLiage3.Form3.resources
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\obj\Debug\GestionCommercialeLiage3.Form2.resources
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\obj\Debug\GestionCommercialeLiage3.Form4.resources
+C:\Users\Spectre\source\repos\GestionCommercialeLiage3\GestionCommercialeLiage3\obj\Debug\GestionCommercialeLiage3.Form5.resources
